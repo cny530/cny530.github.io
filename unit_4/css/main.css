@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Playball);
+
+body {
+  text-align: center;
+  background: url("http://yachtboatnews.com/wp-content/uploads/2014/11/cruise-ships-1.jpg");
+  background-size: cover;
+  color: #990000;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h1 {
+	font-family: 'Playball', cursive;
+}
+
+h1, t, p, ul {
+	margin-right: 250px;
+    margin-left: 250px;
+}
+
+ul {text-align: center;
+}
+
+#slogan {
+	font-style: italic;
+}
