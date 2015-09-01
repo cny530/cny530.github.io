@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: gray;
+  background-size: cover;
+  color: white;
+  font-size: 35px;
+}
+h1 {
+	font-family: 'book antiqua', cursive;
+}
+p {
+  font-size: 15px;
+}
+
+ul {text-align: center;
+}
